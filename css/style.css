@@ -11,8 +11,9 @@ h1{
 	font-weight: 700;
 	font-style: normal;
 	color: white;
-	margin-left: 40px;
-		
+	text-align: center;
+	padding: 20px;
+
 	
 }
 
@@ -47,9 +48,14 @@ header {
 
 
 .nav-link {
-	color: white !important;
 	font-family: semplicitapro,sans-serif;
 	font-weight: 400;
-	margin-top: -0.5cm;
+	background-color: transparent;
 	
+	
+}
+
+.navbar-brand {
+	font-family: krok,sans serif;
+	font-size: 23px;
 }
