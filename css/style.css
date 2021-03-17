@@ -57,3 +57,16 @@ footer {
 	font-family: semplicitapro,sans-serif;
 	
 }
+
+.jumbotron {
+	background-color: #d86847;
+	color: white;
+	padding: 20px;
+	
+}
+
+.btn-primary {
+	background-color: white;
+	border: solid black;
+	color: #d86847;
+}
