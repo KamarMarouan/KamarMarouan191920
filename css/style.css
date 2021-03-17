@@ -46,6 +46,14 @@ header {
 	
 }
 
+
 img {
 	height: 30px;
+}
+
+footer {
+	background-color: #D86847;
+	color: white;
+	font-family: semplicitapro,sans-serif;
+	
 }
