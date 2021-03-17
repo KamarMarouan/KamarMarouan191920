@@ -70,3 +70,7 @@ footer {
 	border: solid black;
 	color: #d86847;
 }
+
+.card {
+	margin-bottom: 15px;
+}
